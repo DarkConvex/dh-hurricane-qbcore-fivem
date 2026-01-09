@@ -3,7 +3,7 @@
 A **fully automated, immersive hurricane system** for **QBCore FiveM servers**, designed to create high-intensity roleplay, server-wide emergencies, and realistic natural disasters — perfect for **restart storms, evacuations, and purge-style events**.
 
 🔗 **Purchase on Tebex:**  
-👉 https://YOUR-TEBEX-LINK-HERE
+https://drifters-haven-mods.tebex.io/package/dh-hurricane
 
 ---
 
